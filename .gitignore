@@ -1,0 +1,7 @@
+composer.phar
+/vendor/
+composer*
+db_config.php
+/public/img/*
+/public/img/
+
